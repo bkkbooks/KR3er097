@@ -1,0 +1,194 @@
+canonical_identifier: bkk:krp/KR3er097/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3er097/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 醫中一得
+  identifiers:
+    krp: KR3er097
+  tags:
+    kr-categories: KR3er
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er097.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3er097_000-jc.yaml, hash: 'sha256:f64f9feefb921ddc82e1811ff4f51ee8b3b63f7c4313c7ec6d07fe616d988a9a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3er097_000-jc.markers.yaml, hash: 'sha256:0224ecc441d034fdfbd544f4a86e68ee1b8ae50b3f42509e16e91d2a01ed3a60'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3er097_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 348
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er097_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 1330
+  label: 輝瘧淺說
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er097_jc_000-d4.h1s1
+    span:
+    - body
+    - 1330
+    - 3111
+  label: 附錄澄江華墅鎮俯恬吳君閱此寄來書並答書
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er097_jc_000-d5.h1s1
+    span:
+    - body
+    - 3111
+    - 6784
+  label: 俯恬吳君又有書來並答書
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er097_jc_000-d6.h1s1
+    span:
+    - body
+    - 6784
+    - 6827
+  label: 大青龍加味湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er097_jc_000-d7.h1s1
+    span:
+    - body
+    - 6827
+    - 7253
+  label: 產後房勞論俗稱產母病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er097_jc_000-d8.h1s1
+    span:
+    - body
+    - 7253
+    - 7330
+  label: 延胡索散專治婦人產後房勞
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er097_jc_000-d9.h1s1
+    span:
+    - body
+    - 7330
+    - 7628
+  label: 八珍加味湯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er097_jc_000-d10.h1s1
+    span:
+    - body
+    - 7628
+    - 8132
+  label: 附錄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er097_jc_000-d11.h1s1
+    span:
+    - body
+    - 8132
+    - 9672
+  label: 答書
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er097_jc_000-d12.h1s1
+    span:
+    - body
+    - 9672
+    - 11484
+  label: 答書
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er097_jc_000-d13.h1s1
+    span:
+    - body
+    - 11484
+    - 13019
+  label: 答書
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er097_jc_000-d14.h1s1
+    span:
+    - body
+    - 13019
+    - 13355
+  label: 清瘧飲方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er097_jc_000-d15.h1s1
+    span:
+    - body
+    - 13355
+    - 13989
+  label: 答書
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er097_jc_000-d16.h1s1
+    span:
+    - body
+    - 13989
+    - 14422
+  label: 送子神效方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er097_jc_000-d17.h1s1
+    span:
+    - body
+    - 14422
+    - 15293
+  label: 葛升湯驗案
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er097_jc_000-d18.h1s1
+    span:
+    - body
+    - 15293
+    - 15776
+  label: 誤服生鴉片煙並非真死說
+  type: section
+  level: 1
+hash: sha256:a3989917ff3d9ab80f39d5b89f3c6906c545cac977947388d3c58fdfdc755faa

@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3er097/v1
 canonical_location: https://kanripo.org/bkk/KR3er097/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 醫中一得
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3er097_000.yaml, hash: 'sha256:f64f9feefb921ddc82e1811ff4f51ee8b3b63f7c4313c7ec6d07fe616d988a9a'}
+  - {seq: 0, filename: KR3er097_000.yaml, hash: 'sha256:2572dbc4a80eae87d09c4c460d3bbdd1b36913ed179d95db59011d64fff4c51a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er097_000.markers.yaml, hash: 'sha256:88ad8a9a21a20c6e0bacbd9e0cce12e363eb04bb6f1c519f1a92a5f083426141'}
+  - {seq: 0, role: markers, filename: assets/KR3er097_000.markers.yaml, hash: 'sha256:c7cd2ca5afa6537f70fd58f55e23ad226f6272e3d76c7e7726a69b72cfddc8bf'}
 table_of_contents:
 - ref:
     seq: 0
@@ -191,4 +191,7 @@ table_of_contents:
   label: 誤服生鴉片煙並非真死說
   type: section
   level: 1
-hash: sha256:bca425ffe410e3242ce7a178830624ddb9c0c2092a10fe8af220a8c608699c7b
+hash: sha256:8859752bcb84168318da43ace224cc451e0fd1a3824bfbcf8383e0e99fb75ae2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

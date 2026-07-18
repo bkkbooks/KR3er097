@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3er097_000.yaml, hash: 'sha256:2572dbc4a80eae87d09c4c460d3bbdd1b36913ed179d95db59011d64fff4c51a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er097_000.markers.yaml, hash: 'sha256:c7cd2ca5afa6537f70fd58f55e23ad226f6272e3d76c7e7726a69b72cfddc8bf'}
+  - {seq: 0, role: markers, filename: assets/KR3er097_000.markers.yaml, hash: 'sha256:966c49cc85fbf22d7d074f572dc67bd7073eb775fafa0c8a3025d0cb63331b77'}
 table_of_contents:
 - ref:
     seq: 0
@@ -191,7 +191,7 @@ table_of_contents:
   label: 誤服生鴉片煙並非真死說
   type: section
   level: 1
-hash: sha256:8859752bcb84168318da43ace224cc451e0fd1a3824bfbcf8383e0e99fb75ae2
+hash: sha256:3973252ec06f1eeba07bb435186cd222948424b0b28213d4aad90d0e994281fe
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
